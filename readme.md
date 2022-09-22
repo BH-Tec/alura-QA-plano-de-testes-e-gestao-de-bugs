@@ -3,14 +3,16 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>
+  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">📝 License</a>
 </p>
 
 ## 💻 Projeto
 
 Projeto criado para o curso "Quality Assurance: planos de testes e gestão de bugs" da Alura.
 
-## 📚 Tópicos abordados
+## 🚀 Tecnologias
 
 - Testes e cenários de testes
 - Qualidade
@@ -19,5 +21,9 @@ Projeto criado para o curso "Quality Assurance: planos de testes e gestão de bu
 - Gestão de erros
 - Estratégia de teste
 - Refinamentos e conclusões
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
